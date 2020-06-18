@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     var membersNamesArray  : [String] = [""]
-    
+    var member = ["janna"]
     var convertToLetter = true
     @IBOutlet weak var secretSocietyNameLabel: UILabel!
     @IBOutlet weak var nameTextField: UITextField!
@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         
         // MARK: -   1️⃣ تحت الخط membersNamesArray إلي المصفوفه memberقم بإضافة المتغير
         
-        
+
         
         // MARK: -   النهاية
         
